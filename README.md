@@ -1,1 +1,2 @@
 # odin-recipes
+This is the first assigned project in The Odin Project's Foundations course. So far, we have learned about the basics of HTML and will use this knowledge to create a basic recipe website (No CSS or JS for now).
