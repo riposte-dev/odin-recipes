@@ -1,3 +1,43 @@
 body {
+    background-color: #e1f4cb; /* Edit website background color */
+    margin: 0; /* Remove default margin */
+    /* Default text  (p, ol, ul, a) */
     font-family: Tahoma, sans-serif, 'Courier New', monospace;
+    font-size: 18px;
+    color: #1C1C1C;
+}
+
+h1 {
+    background-color: #D19C1D;
+    font-size: 32px;
+    padding: 16px;
+    margin-top: 0px;
+}
+
+h2 {
+    font-size: 24px;
+}
+
+img {
+    /* It seems height is set to auto by default so no need to define it */
+    width: 40%;
+    border-radius: 32px; /* Add rounded effect! */
+}
+
+li {
+    margin-bottom: 12px; /* Add space between list items */
+}
+
+.content {
+    margin: 50px;
+}
+
+/* For the redirectory link at the bottom of the page */
+.footer-link {
+    display: block; /* <a> is an inline element! */
+    background-color: #717568;
+    font-size: 18px;
+    padding: 16px;
+    width: 100%;
+    color: #E1F4CB;
 }
